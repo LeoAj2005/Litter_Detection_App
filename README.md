@@ -1,1 +1,1 @@
-# Garbage_Detection_Android_App
+# Garbage Detection Android App
