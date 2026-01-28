@@ -36,9 +36,6 @@ dev_dependencies:
 flutter:
   uses-material-design: true
 
-# --- APP ICON CONFIGURATION ---
-# 1. Add an image named "app_icon.png" to a folder called "assets/icon/"
-# 2. Run: flutter pub run flutter_launcher_icons
 flutter_launcher_icons:
   android: "ic_launcher"
   ios: true
